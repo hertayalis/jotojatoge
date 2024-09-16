@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jotojatoge.vercel.app/sitemap.xml
